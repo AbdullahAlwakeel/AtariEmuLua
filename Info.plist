@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Bankswitch</string>
+		<string>Functions</string>
+		<string>Atari2600</string>
+		<string>Main</string>
+		<string>Pallete</string>
+		<string>RIOT</string>
+		<string>Sound</string>
+		<string>TIA</string>
+	</array>
+	<key>Dependencies</key>
+	<array>
+		<string>SaveTable</string>
+		<string>BinaryToPixel</string>
+		<string>LuaProfiler</string>
+		<string>Documents:6502Console v2</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
